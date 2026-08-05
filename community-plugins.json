@@ -44392,5 +44392,13 @@
     "author": "Aura 88 Tech",
     "description": "A radar for your tasks: a blip's distance from the center is driven by its due date. Postpone, complete, and reprioritize tasks from the radar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aura88-tech/task-radar"
-  }
+  },
+  {
+  "id": "canvas-draw",
+  "name": "CanvasDraw",
+  "author": "Raushan Kumar Yadav",
+  "description": "Seamless inline Excalidraw integration with full drawing tools, library management, and custom canvas controls.",
+  "repo": "Raushan-kumar-yadav/obsidianDraw"
+}
+
 ]
